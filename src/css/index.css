@@ -1,9 +1,7 @@
-body {
-	background-color: darksalmon;
-}
+body {background-color: darksalmon;}
 
 .fill {
-	background-image: url('http://www.source.unsplash.com/random/150x150');
+	background-image: url('https://source.unsplash.com/random/150x150');
 	position: relative;
 	height: 150px;
 	width: 150px;
@@ -21,16 +19,11 @@ body {
 	background-color: white;
 }
 
-.hold {
-	border: solid #ccc 4px;
-	border-style: dashed;
-}
+.hold {border: solid #ccc 4px;}
 
 .hovered {
 	background: #f4f4f4;
 	border-style: dashed;
 }
 
-.invisible {
-	display: none;
-}
+.invisible {display: none;}
